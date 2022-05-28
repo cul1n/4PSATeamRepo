@@ -1,1 +1,1 @@
-Repository for the git/bash assignment.
+Add or remove movies from the list!
