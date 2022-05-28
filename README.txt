@@ -1,1 +1,1 @@
-Repository for the git/bash assignment.
+Repository made for the 4PSA git/bash assignment. Useless descriptionnn.
