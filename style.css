@@ -1,0 +1,21 @@
+#mainTitle {
+    font-size: 2vw;
+    color: blue;
+}
+
+p {
+    color: green;
+    font-size: 1vw;
+}
+
+.movie {
+    height: 1.5vw;
+    width: 10vw;
+    border: 0.5vw solid orange;
+    background-color: yellow;
+    margin-bottom: 1vw;
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3vw;
+}
